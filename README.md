@@ -65,7 +65,13 @@ connections
   [0 0 0 0 0]  
   [0 0 0 0 0]  
   [0 0 0 0 0]]]  
-  
+
+##Requirements
+###Tensorflow
+###Python  
+###-my environment-  
+Tensorflow 0.8.0(I found this codes do not work at 0.6.0)  
+Ubuntu 14.04  
 
 ## Future work
 ###As I wrote above, splitting the input is important. But it is not innovative just to find the architecture which have already discovered before. On that point, I rather want to focus on automated evolution of time-series neural network to find unknown architecture for tasks such as Natural Language Processing.
