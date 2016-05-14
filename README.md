@@ -67,10 +67,9 @@ connections
   [0 0 0 0 0]]]  
 
 ##Requirements
-###Tensorflow
-###Python  
+###Tensorflow, Python  
 ###-my environment-  
-Tensorflow 0.8.0(I found this codes do not work at 0.6.0)  
+Tensorflow 0.8.0(I found the codes do not work at 0.6.0)  
 Ubuntu 14.04  
 
 ## Future work
